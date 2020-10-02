@@ -1,4 +1,4 @@
-# MyApp
+# My Error Button App
 
 Replace the placeholder dsn in app.component.ts with your own to connect to Sentry
 
