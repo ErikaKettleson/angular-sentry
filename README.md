@@ -1,5 +1,7 @@
 # MyApp
 
+Replace the placeholder dsn in app.component.ts with your own to connect to Sentry
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.2.
 
 ## Development server
